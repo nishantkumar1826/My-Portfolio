@@ -15,6 +15,7 @@
 
 > A modern, responsive, and animated **personal portfolio website** built using pure **HTML**, **CSS**, and **JavaScript** ✨.  
 > This portfolio showcases my **skills**, **projects**, and **contact information**, with smooth scrolling and elegant design effects.
+> This is my Portfolio made using HTML and CSS that was taught us by our faculty in my University.
 
 ## 🧠 **Features**
 
